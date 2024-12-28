@@ -1,0 +1,16 @@
+C:\Users\merittox\Desktop\c#\projeler\Library\bin\Debug\net8.0-windows\Library.exe
+C:\Users\merittox\Desktop\c#\projeler\Library\bin\Debug\net8.0-windows\Library.deps.json
+C:\Users\merittox\Desktop\c#\projeler\Library\bin\Debug\net8.0-windows\Library.runtimeconfig.json
+C:\Users\merittox\Desktop\c#\projeler\Library\bin\Debug\net8.0-windows\Library.dll
+C:\Users\merittox\Desktop\c#\projeler\Library\bin\Debug\net8.0-windows\Library.pdb
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\Library.Form1.resources
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\Library.AssemblyInfo.cs
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\Library.dll
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\refint\Library.dll
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\Library.pdb
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\Library.genruntimeconfig.cache
+C:\Users\merittox\Desktop\c#\projeler\Library\obj\Debug\net8.0-windows\ref\Library.dll
